@@ -65,3 +65,6 @@ To set up a development environment, please follow these steps:
    Project will be running in the browser.
 
    Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+   
+   ## notice
+   in some countries shazamCore api is not supported so if you ran into an error you should probably use a vpn.
