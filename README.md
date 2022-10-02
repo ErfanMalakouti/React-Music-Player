@@ -43,7 +43,7 @@ To set up a development environment, please follow these steps:
 1. Clone the repo
 
    ```shell
-    git clone https://github.com/ErfanMalakouti/ReactMusicPlayer.git
+    git clone https://github.com/ErfanMalakouti/React-Music-Player
    ```
 
 2. Install the dependencies
